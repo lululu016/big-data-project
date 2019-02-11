@@ -6,8 +6,6 @@ This project deploys MNIST application into the container. Users submit digital 
 ## Files
 app.py: main program
 
-predict.py: predict program (using mnist softmax model)
-
 model.py: mnist model architecture
 
 dockerfile
