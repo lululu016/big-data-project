@@ -5,19 +5,15 @@ This project deploys MNIST application into the container. Users submit digital 
 
 ## Demo
 
-<video src="/Users/apple/Documents/GitHub/big-data-project/usingCurl.mp4"></video>
-
-<video src="/Users/apple/Documents/GitHub/big-data-project/usingWeb.mp4"></video>
-
-
-
 <iframe 
     width="800" 
     height="450" 
-    src="https://github.com/lululu016/big-data-project/blob/master/usingCurl.mp4"
+    src="http://v.youku.com/v_show/id_XNDA2MjA1OTk1Mg==.html?spm=a2h3j.8428770.3416059.1"
     frameborder="0" 
     allowfullscreen>
 </iframe>
+
+
 
 
 ## Files
