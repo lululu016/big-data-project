@@ -5,7 +5,6 @@ This project deploys MNIST application into the container. Users submit digital 
 
 ## Demo
 usingWeb.mp4 and usingCurl.mp4 is demos of this project.
-[![Demo](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://v.youku.com/v_show/id_XNDA2MjA1OTk1Mg==.html?spm=a2h3j.8428770.3416059.1)
 
 ## Files
 
